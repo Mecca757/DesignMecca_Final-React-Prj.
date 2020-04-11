@@ -1,0 +1,23 @@
+
+body {
+    font-family: "Helvetica Neue",
+    sans-serif;   
+}
+ {
+
+}
+
+.jumbotron {
+  margin: 0;
+  padding: 10px;
+  background-color: white;
+  margin-left: 400px;
+ }
+
+.navbar-dark {
+  background-color: rgb(52, 51, 53);
+}
+
+.Navbarlink {
+color: rgb(26, 243, 232);
+}
