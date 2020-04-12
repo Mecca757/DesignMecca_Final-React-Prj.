@@ -35,6 +35,7 @@
     ]
   },
   "devDependencies": {
-    "bootstrap-social": "5.1.1"
+    "bootstrap-social": "5.1.1",
+    "reactstrap": "5.0.0"
   }
 }
